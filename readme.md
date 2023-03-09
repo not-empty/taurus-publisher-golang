@@ -4,7 +4,7 @@ Go bull publisher is a lib that provides a publisher for bull queues
 
 ## install
 
-    go get github.com/levysam/golang-bull-publisher
+    go get github.com/kiwfy/golang-bull-publisher
 
 ## usage
 
@@ -18,7 +18,7 @@ import (
 	"context"
 	"time"
 
-	bullpublisher "github.com/levysam/golang-bull-publisher"
+	bullpublisher "github.com/kiwfy/golang-bull-publisher"
 	"github.com/redis/go-redis/v9"
 )
 
