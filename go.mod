@@ -1,4 +1,4 @@
-module github.com/levysam/golang-bull-publisher
+module github.com/kiwfy/golang-bull-publisher
 
 go 1.18
 
