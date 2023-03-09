@@ -1,3 +1,17 @@
+# Go Bull publisher
+
+Go bull publisher is a lib that provides a publisher for bull queues
+
+## install
+
+    go get github.com/levysam/golang-bull-publisher
+
+## usage
+
+Below is an example which shows some common use cases for publisher.
+
+
+```go
 package main
 
 import (
@@ -25,7 +39,7 @@ func main() {
 
 	publisher.AddJob(
 		"teste",
-		&testeando{
+		&testando{
 			Name: "levy",
 			Data: time.Now().Unix(),
 		},
@@ -45,3 +59,5 @@ func main() {
 		"process",
 	)
 }
+
+```
