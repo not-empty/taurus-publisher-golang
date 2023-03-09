@@ -18,7 +18,7 @@ import (
 	"context"
 	"time"
 
-	bullpublisher "github.com/levysam/golang-bull-publisher"
+	bullpublisher "github.com/kiwfy/golang-bull-publisher"
 	"github.com/redis/go-redis/v9"
 )
 
