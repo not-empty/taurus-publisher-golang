@@ -1,12 +1,14 @@
 # Go Bull publisher
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&label=PRs%20Welcome)](http://makeapullrequest.com)
+
 Go bull publisher is a lib that provides a publisher for bull queues
 
-## install
+### Installation
 
     GOPROXY=https://proxy.golang.org GO111MODULE=on go get github.com/kiwfy/golang-bull-publisher@v1.0.0
 
-## usage
+### Usage
 
 Below is an example which shows some common use cases for publisher.
 
@@ -61,3 +63,5 @@ func main() {
 }
 
 ```
+
+**Kiwfy - Open your code, open your mind!**
