@@ -6,7 +6,7 @@ Go bull publisher is a lib that provides a publisher for bull queues
 
 ### Installation
 
-    GOPROXY=https://proxy.golang.org GO111MODULE=on go get github.com/kiwfy/golang-bull-publisher@v1.0.0
+    go get github.com/kiwfy/golang-bull-publisher
 
 ### Usage
 
