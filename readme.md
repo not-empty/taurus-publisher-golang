@@ -1,5 +1,6 @@
 # Go Bull publisher
 
+[![Latest Version](https://img.shields.io/github/v/release/kiwfy/golang-bull-publisher.svg?style=flat-square)](https://github.com/kiwfy/golang-bull-publisher/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&label=PRs%20Welcome)](http://makeapullrequest.com)
 
 Go bull publisher is a lib that provides a publisher for bull queues
