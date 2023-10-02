@@ -130,7 +130,6 @@ func (publisher *Publisher) AddJob(
 	if err != nil {
 		return err
 	}
-	fmt.Println(string(jsonData))
 	jsonOption, err := json.Marshal(opts)
 	if err != nil {
 		return err
